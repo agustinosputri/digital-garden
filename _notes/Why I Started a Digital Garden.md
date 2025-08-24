@@ -1,9 +1,6 @@
 ---
 ---
 
-```
---- title: Why I Started a Digital Garden ---
-```
 
 I started this digital garden because I didn’t want what I learned to fade away.
 
