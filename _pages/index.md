@@ -9,11 +9,6 @@ permalink: /
 
 This is where I explore my ideas and share them publicly so others can read and provide feedback to help me improve my thinking.
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Why I started My Digital Garden]]</span> to get started on your exploration.
-</p>
-
-
 Enjoy exploring my digital garden!
 
 Thanks to Max, this digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
