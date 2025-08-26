@@ -27,4 +27,3 @@ In other words, the “felt force” of literacy today might also include: the g
 - Hollett, T. (2020). The felt force of literacy: Affect, classroom life, and research. *Reading Research Quarterly, 55*(3), 374–379. https://doi.org/10.1002/rrq.308  
 - Massumi, B. (2002). *Parables for the virtual: Movement, affect, sensation*. Duke University Press.  
 - Spinoza, B. (1996). *Ethics* (E. Curley, Trans.). Penguin. (Original work published 1677)  
-

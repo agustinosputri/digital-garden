@@ -5,7 +5,7 @@ title: Why I Started a Digital Garden
 
 In its most fundamental definition, a digital garden is a collection of notes. As for me, I started a digital garden because I didn’t want what I learned to fade away. Instead, I wish to plant what I have learned, tend it, and let it grow. To have my own knowledge arboretum.
 
-I have been a longtime analog notetakers. Be it in my diary, planner, bullet journal, or recently my commonplace book. Then I started to taking notes digitally on Evernote, Notion, to now in Obsidian.
+I have been a longtime analog notetakers. Be it in my diary, #planner, #bulletjournal, or recently my #commonplace book. Then I started to taking notes digitally on Evernote, Notion, to now in #Obsidian.
 
 Of course as a digital lurker, when I first stumbled into the idea of a “digital garden,” to store my notes and learning, it resonated deeply. Plus i love gardening in real life too. 🪴 
 
