@@ -1,5 +1,5 @@
 ---
-title: Literacy
+title: Literacy Arboretum
 ---
 
 Collectives list of notes on Literacy at [[My Digital Garden]]
