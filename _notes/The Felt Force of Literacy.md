@@ -14,13 +14,10 @@ In educational research, this perspective disrupts the dominance of cognitive fr
 
 Hollett’s commentary brings together three articles in the special issue (Nichols & Coleman; Garcia, Guggenheim, Stamatis, & Dalton; Burnett & Merchant) through the concepts of atmosphere and mobile architecture. Literacy practices, he argues, are not static but move through shifting environments—digital, physical, emotional—shaped by the “felt force” of the moment. He names the affective landscape of 2020: masks-ventilators-fear-abundance of caution-distance-anxiety-Zoom school-Ahmaud-George-Breonna-fire-rage-murder-police.  
 
-Reading this as a Muslim, first-generation immigrant currently teaching adult learners to read and write in English (both L1 and L2), I couldn’t help but pause and think about how I would rewrite the list for my own classroom and community. The words may differ, but the feeling is the same thread. For my students, the atmosphere is similarly charged, though experienced differently: many only access learning through their phones, negotiating both literacy and information on fragile infrastructures.  
+Reading this as a first-generation immigrant currently teaching adult learners to read and write in English (both as their L1 and L2), I couldn’t help but pause and think about how I would rewrite the list for my self, my own classroom and my community. The words may differ, but the feeling for sure is the same thread. For my students, the atmosphere is similarly charged, though experienced differently: many only access learning through their phones, negotiating both literacy and information on fragile infrastructures.  
 
 This is why Hollett’s “felt force” struck me—it remains relevant across time and space. Despite the different political and cultural contexts, the central concern is the same: how does one describe the felt force of right now?  
 
-For future inquiry, I am drawn to the notion of affective atmosphere in mobile architectures. I want to explore how affect circulates not just between humans but also through texts and technologies, particularly in contexts where learners rely on machine translation as a mediator. In my classroom, I notice how readers become dependent on translation apps—not as temporary scaffolds but as sources of truth. This dynamic opens questions about the distribution of power, the limits of literacy, and the affective weight of depending on a machine to render one’s voice legible.  
-
-In other words, the “felt force” of literacy today might also include: the glow of a phone screen, the pause before hitting “translate,” the frustration of mistranslation, the relief of recognition.  
 
 ### References  
 

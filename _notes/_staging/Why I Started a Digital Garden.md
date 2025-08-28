@@ -1,6 +1,3 @@
----
----
-
 ```
 --- title: Why I Started a Digital Garden ---
 ```

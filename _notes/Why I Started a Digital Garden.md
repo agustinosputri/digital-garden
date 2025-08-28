@@ -1,7 +1,6 @@
 ---
-title: Why I Started a Digital Garden
+title: My Digital Garden
 ---
-
 
 In its most fundamental definition, a digital garden is a collection of notes. As for me, I started a digital garden because I didn’t want what I learned to fade away. Instead, I wish to plant what I have learned, tend it, and let it grow. To have my own knowledge arboretum.
 
@@ -9,7 +8,7 @@ I have been a longtime analog notetakers. Be it in my diary, #planner, #bulletjo
 
 Of course as a digital lurker, when I first stumbled into the idea of a “digital garden,” to store my notes and learning, it resonated deeply. Plus i love gardening in real life too. 🪴 
 
-The concept of Digital Garden sounds accepting in a world where perfectionism is the standard. Maggie Appleton on A Brief History & Ethos of the Digital Garden said 
+The concept of Digital Garden sounds accepting in a world where perfectionism is the standard. Maggie Appleton on [A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history) said: 
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;"> "A garden is a collection of evolving ideas that aren’t strictly organised by their publication date. They’re inherently exploratory – notes are linked through contextual associations. They aren’t refined or complete – notes are published as half-finished thoughts that will grow and evolve over time. They’re less rigid, less performative, and less perfect than the personal websites we’re used to seeing."</p>
 

@@ -2,7 +2,7 @@
 title: Literacy
 ---
 
-Collectives notes on Literacy at my [[Why I Started a Digital Garden|Digital Garden]]
+Collectives list of notes on Literacy at [[My Digital Garden]]
 
 
 - [[The Felt Force of Literacy|Felt Force]].
