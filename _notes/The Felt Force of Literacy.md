@@ -8,7 +8,7 @@ First planted on Dec 2024 🌱
 
 # The Felt Force of Literacy: A Reflection from the Classroom
 
-While reading about [[learning sciences]] on Bluesky, I came across Ty Hollett’s *The Felt Force of Literacy* (2020), a commentary in *Reading Research Quarterly*. The piece appears in a special issue on affect theory—a theoretical framework that centers not just emotion but the intensities, atmospheres, and embodied forces that shape our experience. Drawing from Spinoza, Silvan Tomkins, Eve Sedgwick, and Brian Massumi, affect theory invites us to reconsider what moves us, literally and figuratively, in learning and in life.
+While reading about [[learning sciences]] on Bluesky, I came across Ty Hollett’s *The Felt Force of Literacy* (2020), a commentary in *Reading Research Quarterly*. The piece appears in a special issue on affect theory—a theoretical framework that centers not just emotion but the intensities, atmospheres, and embodied forces that shape our experience. Drawing from Spinoza, Silvan Tomkins, Eve Sedgwick, and Brian Massumi, [[Affect Theory|Affect Theory]] invites us to reconsider what moves us, literally and figuratively, in learning and in life.
 
 Hollett’s commentary uses affect theory to challenge the dominance of purely cognitive models in learning sciences. Rather than seeing learning as just information processing, he argues that learning is always saturated with feeling. Emotion, mood, environment, and history don’t just “color” learning—they *constitute* it. Literacy, then, is not merely about decoding text or composing coherent sentences; it is about navigating spaces—digital, physical, emotional—where certain bodies and voices are made to feel visible, invisible, anxious, affirmed.
 

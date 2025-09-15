@@ -4,7 +4,7 @@ title: My Digital Garden
 
 First planted August 2025 🪴
 
-In its most fundamental definition, a digital garden is a collection of notes. As for me, I started a digital garden because I didn’t want what I learned to fade away. Instead, I wish to plant what I have learned, tend it, and let it grow. To have my own knowledge arboretum.
+In its most fundamental definition, a digital garden is a collection of notes. As for me, I started a digital garden because I didn’t want what I learned to fade away. Instead, I wish to plant what I have learned, tend it, and let it grow then to develop a [Spaced Repetition]learning habit.
 
 I have been a longtime analog notetakers. Be it in my diary, #planner, #bulletjournal, or recently my #commonplace book. Then I started to taking notes digitally on Evernote, Notion, to now in #Obsidian.
 
